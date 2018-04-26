@@ -1,0 +1,25 @@
+title = "Suratno.id"
+baseurl = "http://localhost:1313/"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "tiwol"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = ""
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Blog"
+
+# Biodata Author
+[author]
+    name = "Ratno"
+    homepage = "https://www.facebook.com/ratno.fernandz"
+    bio = "Pengamat Langit"
+    image = "https://lh3.googleusercontent.com/96iyVJ0bzYp9Kupr8kik9l8gdmCSLFTdm5gL57bR2_2Y_2cphFyBiWXbhSx6opUsm0LGCtmUMm7Kvw=w639-h638-rw-no"
