@@ -1,5 +1,5 @@
-title = "Suratno.id"
-baseurl = "http://localhost:1313/"
+title = "SuratnoBlog"
+baseurl = "https://ratnokim.github.io/"
 
 # Agar front-matter pakai format YAML
 MetaDataFormat = "yaml"
